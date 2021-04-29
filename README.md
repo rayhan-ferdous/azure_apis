@@ -1,4 +1,4 @@
-# azure_apis
+# Azure_apis
 apis for Azure cloud services
 
 ## How to run
